@@ -1,8 +1,8 @@
 {
-    "title": "New Age",
-    "name": "startbootstrap-new-age",
+    "title": "Coming Soon",
+    "name": "startbootstrap-coming-soon",
     "version": "4.1.1",
-    "description": "A one page app landing page HTML theme for Bootstrap.",
+    "description": "Coming Soon is a Bootstrap 4 coming soon page theme.",
     "keywords": [
         "css",
         "sass",
@@ -11,9 +11,9 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/new-age",
+    "homepage": "https://startbootstrap.com/template-overviews/coming-soon",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-new-age/issues",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-coming-soon/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
@@ -23,14 +23,13 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-new-age.git"
+        "url": "https://github.com/BlackrockDigital/startbootstrap-coming-soon.git"
     },
     "dependencies": {
         "bootstrap": "4.1.1",
         "font-awesome": "4.7.0",
         "jquery": "3.3.1",
-        "jquery.easing": "^1.4.1",
-        "simple-line-icons": "2.4.1"
+        "vide": "^0.5.1"
     },
     "devDependencies": {
         "browser-sync": "2.24.3",
